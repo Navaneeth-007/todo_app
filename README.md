@@ -30,7 +30,7 @@ A simple and intuitive **Todo App** built with **Flutter** that helps users orga
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/todo_app.git
+git clone https://github.com/Navaneeth-007/todo_app.git
 ```
 
 2. Navigate to the project directory.
